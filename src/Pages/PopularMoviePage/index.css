@@ -1,0 +1,17 @@
+.movie-page-con{
+    height: 93.6vh;
+    width: 100%;
+    background-color: hsl(0, 5%, 19%);
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.movie-container{
+    margin-top: 0px;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    overflow-y: auto;
+    overflow-x: hidden;
+}

@@ -1,0 +1,69 @@
+.link-el{
+    text-decoration: none;
+    color: #433e3e;
+}
+
+.navbar{
+    height: 40px;
+    width: 100%;
+    font-family: "Roboto";
+    background-color:#433e3e;
+}
+
+.navtextalignment{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logocon{
+  width: 300px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+}
+
+.logotext{
+    color: #8a8888;
+    margin-left: auto;
+    font-size: 25px;
+}
+
+.pagesandsearchbar{
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pagescontainer{
+    display: flex;
+    width: 300px;
+    margin-left: auto;
+    justify-content: space-around;
+}
+
+.navpages{
+    color: #ffffff;
+    list-style-type: none;
+}
+
+.searchboxcon{
+    display: flex;
+    width: 42%;
+}
+
+.searchbox{
+    height: 32px;
+    width: 200px;
+}
+
+.searchbutton{
+    text-align: center;
+    border-width: 0px;
+    height: 33px;
+    width: 70px;
+    background-color: #636262;
+    color: #ffffff;
+    margin-left: 5px;
+}

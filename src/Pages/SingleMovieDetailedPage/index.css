@@ -1,0 +1,23 @@
+.single-page-container{
+    padding: 20px;
+}
+.single-page-image{
+    height: 200px;
+    width: 150px;
+    margin: 20px 0px 0px 20px;
+}
+
+.single-page-intro{
+    margin-left: 10px;
+    color: aliceblue;
+    font-family: sans-serif;
+}
+
+.cast-con{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    overflow-x: auto;
+    overflow-y: auto;
+}

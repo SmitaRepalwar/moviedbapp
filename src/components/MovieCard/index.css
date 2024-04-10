@@ -1,0 +1,27 @@
+.popular-movie-card{
+    height: 330px;
+    width: 230px;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    margin: 40px 10px 10px 40px;
+}
+
+.popular-movie-image{
+    height: 280px;
+    width: 200px;
+}
+
+.popular-movie-name{
+    font-size: 12px;
+    font-family: "roboto";
+}
+
+.popular-movie-rating{
+    font-size: 13px;
+    margin-top: 0px;
+    font-family: "open sans";
+}
